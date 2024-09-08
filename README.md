@@ -46,7 +46,8 @@ CREATE TABLE IF NOT EXISTS Hospedagem (
 ```
 ### 2. Configuração ConnectionFactory
 
-Após criar as tabelas no banco de dados, abra o arquivo ConnectionFactory.java e ajuste as configurações de conexão (URL, usuário, senha) conforme os dados do seu banco de dados PostgreSQL.
+
+Após criar as tabelas no banco de dados, abra o arquivo ConnectionFactory.java (entrando em src e depois entrando em persistencia) e ajuste as configurações de conexão (URL, usuário, senha) conforme os dados do seu banco de dados PostgreSQL.
 
 
 ### 3. Execução do Projeto
