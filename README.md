@@ -7,8 +7,9 @@
 
 Antes de rodar o projeto, você precisará configurar o banco de dados PostgreSQL. Siga os passos abaixo:
 
-1. Crie um banco de dados no **PgAdmin4**.
-2. Execute as seguintes queries para criar as tabelas necessárias (também estão contidas em tabelas.sql):
+1. Extraia o arquivo ProjetoFinalPc2CiroMoraes em sua área de escolha.
+2. Crie um banco de dados no **PgAdmin4**.
+3. Execute as seguintes queries para criar as tabelas necessárias (também estão contidas em tabelas.sql):
 
 ```sql
 CREATE TABLE IF NOT EXISTS Cliente (
